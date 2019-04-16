@@ -1,8 +1,8 @@
 {
-    "name": "panda-bot",
+    "name": "pandav1.0.0000-bot",
     "version": "1.0.0",
     "description": "This is a simple test and experiment bot",
-    "main": "panda-bot.js",
+    "main": "pandav1.0.0000-bot.js",
     "author": "sagar14323",
     "scripts": {
         "start": "node bot.js"
