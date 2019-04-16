@@ -1,9 +1,9 @@
 {
-    "name": "kronten-bot",
+    "name": "panda-bot",
     "version": "1.0.0",
     "description": "This is a simple test and experiment bot",
-    "main": "kronten-bot.js",
-    "author": "rahul5544",
+    "main": "panda-bot.js",
+    "author": "sagar14323",
     "scripts": {
         "start": "node bot.js"
     },
